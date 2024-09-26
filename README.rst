@@ -1,5 +1,5 @@
 .. These are examples of badges you might want to add to your README:
-   please update the URLs accordingly
+please update the URLs accordingly
 
     .. image:: https://api.cirrus-ci.com/github/<USER>/vol_prediction.svg?branch=main
         :alt: Built Status
@@ -57,10 +57,10 @@ Goals
 
 By developing accurate volatility prediction models, this project aims to:
 
-Improve pricing algorithms for a variety of financial products
-Gain deeper insights into market dynamics and structure
-Contribute to better decision-making in real-time trading environments
-We are excited to explore different approaches and continue refining these models to adapt to evolving market conditions.
+- Improve pricing algorithms for a variety of financial products
+- Gain deeper insights into market dynamics and structure
+- Contribute to better decision-making in real-time trading environments
+- We are excited to explore different approaches and continue refining these models to adapt to evolving market conditions.
 
 Getting Started
 ====
